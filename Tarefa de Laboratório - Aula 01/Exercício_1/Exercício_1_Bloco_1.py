@@ -6,3 +6,5 @@ print("Resultado A - B = ", a - b)
 print("Resultado A * B = ", a * b)
 print("Resultado A // B = ", a // b)
 print("Resultado A % B = ", a % b)
+
+# teste de commit
